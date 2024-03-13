@@ -7,7 +7,8 @@ export default function About() {
       </p>
       <section className="md:w-[600px] sm:w-[85%] w-[90%] h-auto bg-white rounded-3xl relative border-4 border-[#b96c76] p-4 text-[#b96c76] font-cabinet about">
         <p className="font-cabinet font-semibold md:text-2xl sm:text-xl text-base leading-tight">
-          Welcome to the Dark Side!!! <br />
+          <span className="font-extrabold">Welcome to the Dark Side!!!</span>{" "}
+          <br />
           During the Long Night of Dips and Dumps, the Pepe team made a deal
           with the Devil to take over Pepe giving rise to The PEPE DEVIL |
           $PEPEDEV! The Pepe Devil invites you to explore the depths of meme
