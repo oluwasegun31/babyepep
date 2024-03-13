@@ -9,10 +9,10 @@ export default function Token() {
           Total suply <br /> 1 billion
         </div>
         <div className="md:w-[80%] w-[85%] py-2 bg-white rounded-lg border-4 border-[#b96c76]">
-          Taxes <br /> 0%
+          Mint Revoked
         </div>
         <div className="md:w-[80%] w-[85%] py-2 bg-white rounded-lg border-4 border-[#b96c76] ml-auto">
-          Lp burned <br /> at launch
+          Lp burned
         </div>
       </section>
     </section>

@@ -1,5 +1,6 @@
 body{
     background-color: #ec9fa9;
+    overflow-x: hidden;
 }
 .darkbg{
     position: relative;
