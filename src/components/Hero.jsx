@@ -1,8 +1,8 @@
 import bottle from "../assets/bottle.webp";
 export default function Hero() {
   return (
-    <section className="w-full h-[90vh] flex flex-col md:justify-between justify-end items-center gap-12 pt-16 font-boxing">
-      <p className="font-bold uppercase text-white lg:text-8xl md:text-7xl sm:text-6xl text-4xl">
+    <section className="w-full h-[90vh] flex flex-col md:justify-center justify-end items-center gap-12 pt-16 font-lilita">
+      <p className="text-[54px] font-bold text-white uppercase lg:text-9xl md:text-8xl sm:text-7xl">
         $BABYEPEP
       </p>
       <img

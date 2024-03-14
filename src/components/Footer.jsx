@@ -1,10 +1,10 @@
 import baby from "../assets/babyepep.webp";
 export default function Footer() {
   return (
-    <footer className="w-full grid justify-center items-center mt-12">
+    <footer className="grid items-center justify-center w-full mt-12">
       <section className="relative -z-10">
-        <p className="w-full font-boxing md:text-6xl sm:text-5xl text-2xl text-white uppercase text-center absolute bottom-6 right-[50%] translate-x-[50%] backdrop-blur-md">
-          JOIN $BABYEPEP
+        <p className="w-full font-lilita lg:text-8xl md:text-6xl sm:text-5xl text-4xl text-white uppercase text-center absolute bottom-6 right-[50%] translate-x-[50%] mix-blend-difference">
+          JOIN $BEPEP
         </p>
         <img
           src={baby}

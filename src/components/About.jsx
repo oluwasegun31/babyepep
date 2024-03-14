@@ -2,20 +2,18 @@ import logo from "../assets/logo.webp";
 export default function About() {
   return (
     <section className="mt-12 flex flex-col justify-start items-end gap-12 py-8 bg-[#e5949e] backdrop-blur-2xl md:px-4 px-1 rounded-xl sm:border-4 border-2 border-[#b96c76]">
-      <p className="font-boxing md:text-7xl sm:text-5xl text-3xl text-white font-normal w-full text-left">
+      <p className="w-full text-3xl font-normal text-left text-white font-lilita md:text-7xl sm:text-5xl">
         About Us
       </p>
       <section className="md:w-[600px] sm:w-[85%] w-[90%] h-auto bg-white rounded-3xl relative border-4 border-[#b96c76] p-4 text-[#b96c76] font-cabinet about">
-        <p className="font-cabinet font-semibold md:text-2xl sm:text-xl text-base leading-tight">
-          <span className="font-extrabold">Welcome to the Dark Side!!!</span>{" "}
-          <br />
-          During the Long Night of Dips and Dumps, the Pepe team made a deal
-          with the Devil to take over Pepe giving rise to The PEPE DEVIL |
-          $PEPEDEV! The Pepe Devil invites you to explore the depths of meme
-          culture with a devilish twist exploiting the sinfully unique Solana
-          ecosystem while enjoying devilishly rewarding tokenomics. Join our
-          community of mischief makers on Discord and Telegram to share dark
-          humor memes and embrace your inner devil.
+        <p className="text-base font-semibold leading-tight font-cabinet md:text-2xl sm:text-xl">
+          <span className="font-extrabold font-lilita">$BEPEP | Baby Epep</span>{" "}
+          <br /> Missed out on $Epep? It's time to set your sights on a fresh
+          opportunity. Say hello to $BabyEpep - Your second chance to get in
+          early. $Babyepep is a movement of collective of like-minded
+          individuals who believe in the power of bullish momentum and the
+          thrill of trading. With $Babyepep, every transaction is an opportunity
+          to make gains and be part of something bigger than ourselves.
         </p>
         <img
           src={logo}

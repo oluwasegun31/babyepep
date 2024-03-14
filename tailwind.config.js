@@ -5,7 +5,7 @@ export default {
     extend: {
       fontFamily: {
         cabinet: "'Cabinet Grotesk', sans-serif",
-        boxing: "'Boxing', sans-serif",
+        lilita: " 'Lilita One', sans-serif",
       },
     },
   },

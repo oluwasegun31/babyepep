@@ -6,8 +6,8 @@ import Buy from "../components/Buy";
 import Footer from "../components/Footer";
 export default function Landing() {
   return (
-    <section className="sm:px-6 px-2 w-full">
-      <header className="fixed top-0 left-0 w-full">
+    <section className="w-full px-2 sm:px-6">
+      <header className="fixed top-0 left-0 z-10 w-full">
         <Navbar />
       </header>
       <main className="mt-20">
