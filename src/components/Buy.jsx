@@ -25,7 +25,7 @@ export default function Buy() {
         How to Buy
       </p>
       <section
-        className="md:w-[60%] sm:w-[90%] w-[95%] grid grid-cols-1 mx-auto sm:gap-4 gap-2 font-lilita md:text-3xl sm:text-2xl text-lg leading-none font-semibold text-[#b96c76] text-center capitalize"
+        className="md:w-[60%] sm:w-[90%] w-[95%] grid grid-cols-1 mx-auto sm:gap-4 gap-2 font-lilita md:text-3xl sm:text-2xl text-lg leading-none font-semibold text-[#b96c76] text-center capitalize overflow-x-hidden"
         ref={buyRef}
       >
         <motion.div

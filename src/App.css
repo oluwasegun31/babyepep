@@ -1,7 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Lilita+One&display=swap');
+::-webkit-scrollbar{ width: 0px;}
+a{
+    color: inherit;
+    text-decoration: none;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);}
+input, textarea, button, select, svg{-webkit-tap-highlight-color: rgba(0, 0, 0, 0);}
+a:focus, a:visited, a:active{outline: none;}
 body{
     background-color: #ec9fa9;
-    overflow-x: hidden;
+    /* overflow-x: hidden; */
 }
 .darkbg{
     position: relative;
